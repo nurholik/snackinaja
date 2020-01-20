@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_jelajah"
+        android:icon="@drawable/ic_jelajah"
+        android:title="@string/title_jelajah" />
+
+    <item
+        android:id="@+id/navigation_rencana"
+        android:icon="@drawable/ic_rencana"
+        android:title="@string/title_rencana" />
+
+    <item
+        android:id="@+id/navigation_premium"
+        android:icon="@drawable/ic_premium"
+        android:title="@string/title_premium" />
+
+</menu>
